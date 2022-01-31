@@ -3,7 +3,7 @@
 We define the "**Lower Arm**" as the assembly of the **<u>Forearm and the Hand</u>**.
 
 !!!Note "Definition"
-    	LOWER ARM = FOREARM + HAND
+    	LOWER ARM = FOREARM + HAND new
 
 The Lower Arm is composed of 12 motors (<u>Forearm:</u> 10 + <u>Hand:</u> 2)
 
